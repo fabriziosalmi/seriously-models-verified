@@ -1,0 +1,632 @@
+[
+  {
+    "slug": "2020-09_arxiv_2009.03300_p2",
+    "month": "2020-09",
+    "source_id": "arxiv_2009.03300",
+    "page": 2,
+    "title": "Measuring Massive Multitask Language Understanding",
+    "version": "v3",
+    "link": "https://arxiv.org/pdf/2009.03300v3#page=2",
+    "captions_on_page": []
+  },
+  {
+    "slug": "2020-09_arxiv_2009.03300_p5",
+    "month": "2020-09",
+    "source_id": "arxiv_2009.03300",
+    "page": 5,
+    "title": "Measuring Massive Multitask Language Understanding",
+    "version": "v3",
+    "link": "https://arxiv.org/pdf/2009.03300v3#page=5",
+    "captions_on_page": [
+      "Figure 5: A question from the Professional Medicine task.",
+      "Table 1: Average weighted accuracy for each model on all four broad disciplines."
+    ]
+  },
+  {
+    "slug": "2021-03_arxiv_2103.03874_p5",
+    "month": "2021-03",
+    "source_id": "arxiv_2103.03874",
+    "page": 5,
+    "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+    "version": "v2",
+    "link": "https://arxiv.org/pdf/2103.03874v2#page=5",
+    "captions_on_page": [
+      "Table 2: MATH accuracies across subjects."
+    ]
+  },
+  {
+    "slug": "2021-07_arxiv_2107.03374_p7",
+    "month": "2021-07",
+    "source_id": "arxiv_2107.03374",
+    "page": 7,
+    "title": "Evaluating Large Language Models Trained on Code",
+    "version": "v2",
+    "link": "https://arxiv.org/pdf/2107.03374v2#page=7",
+    "captions_on_page": [
+      "Table 1: Codex, GPT-Neo, & TabNine evaluations for HumanEval."
+    ]
+  },
+  {
+    "slug": "2021-10_arxiv_2110.14168_p8",
+    "month": "2021-10",
+    "source_id": "arxiv_2110.14168",
+    "page": 8,
+    "title": "Training Verifiers to Solve Math Word Problems",
+    "version": "v2",
+    "link": "https://arxiv.org/pdf/2110.14168v2#page=8",
+    "captions_on_page": [
+      "Figure 5: A comparison between finetuning and verification using 6B and 175B."
+    ]
+  },
+  {
+    "slug": "2021-12_arxiv_2112.11446_p11",
+    "month": "2021-12",
+    "source_id": "arxiv_2112.11446",
+    "page": 11,
+    "title": "Scaling Language Models: Methods, Analysis &amp; Insights from Training Gopher",
+    "version": "v2",
+    "link": "https://arxiv.org/pdf/2112.11446v2#page=11",
+    "captions_on_page": [
+      "Table 5: Massive Multitask Language Understanding (MMLU)."
+    ]
+  },
+  {
+    "slug": "2022-01_arxiv_2201.11903_p20",
+    "month": "2022-01",
+    "source_id": "arxiv_2201.11903",
+    "page": 20,
+    "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+    "version": "v6",
+    "link": "https://arxiv.org/pdf/2201.11903v6#page=20",
+    "captions_on_page": [
+      "Table 1: Chain of thought prompting outperforms standard prompting for various large language."
+    ]
+  },
+  {
+    "slug": "2022-01_arxiv_2201.11903_p5",
+    "month": "2022-01",
+    "source_id": "arxiv_2201.11903",
+    "page": 5,
+    "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+    "version": "v6",
+    "link": "https://arxiv.org/pdf/2201.11903v6#page=5",
+    "captions_on_page": [
+      "Figure 4: Chain-of-thought prompting enables."
+    ]
+  },
+  {
+    "slug": "2022-03_arxiv_2203.11171_p5",
+    "month": "2022-03",
+    "source_id": "arxiv_2203.11171",
+    "page": 5,
+    "title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+    "version": "v4",
+    "link": "https://arxiv.org/pdf/2203.11171v4#page=5",
+    "captions_on_page": [
+      "Table 2: Arithmetic reasoning accuracy by self-consistency compared to chain-of-thought prompting.",
+      "Table 3: Commonsense and symbolic reasoning accuracy by self-consistency compared to chain-."
+    ]
+  },
+  {
+    "slug": "2022-03_arxiv_2203.15556_p11",
+    "month": "2022-03",
+    "source_id": "arxiv_2203.15556",
+    "page": 11,
+    "title": "Training Compute-Optimal Large Language Models",
+    "version": "v1",
+    "link": "https://arxiv.org/pdf/2203.15556v1#page=11",
+    "captions_on_page": [
+      "Table 6: Massive Multitask Language Understanding (MMLU)."
+    ]
+  },
+  {
+    "slug": "2022-03_arxiv_2203.15556_p12",
+    "month": "2022-03",
+    "source_id": "arxiv_2203.15556",
+    "page": 12,
+    "title": "Training Compute-Optimal Large Language Models",
+    "version": "v1",
+    "link": "https://arxiv.org/pdf/2203.15556v1#page=12",
+    "captions_on_page": [
+      "Figure 6: MMLU results compared to Gopher We find that Chinchilla outperforms Gopher by 7.6%.",
+      "Table 7: Reading comprehension."
+    ]
+  },
+  {
+    "slug": "2022-04_arxiv_2204.02311_p22",
+    "month": "2022-04",
+    "source_id": "arxiv_2204.02311",
+    "page": 22,
+    "title": "PaLM: Scaling Language Modeling with Pathways",
+    "version": "v5",
+    "link": "https://arxiv.org/pdf/2204.02311v5#page=22",
+    "captions_on_page": [
+      "Figure 10: Via chain of thought prompting, PaLM achieves strong performance on a range of arithmetic and."
+    ]
+  },
+  {
+    "slug": "2022-04_arxiv_2204.02311_p23",
+    "month": "2022-04",
+    "source_id": "arxiv_2204.02311",
+    "page": 23,
+    "title": "PaLM: Scaling Language Modeling with Pathways",
+    "version": "v5",
+    "link": "https://arxiv.org/pdf/2204.02311v5#page=23",
+    "captions_on_page": [
+      "Figure 11: Examples from the PaLM-Coder 540B model."
+    ]
+  },
+  {
+    "slug": "2022-04_arxiv_2204.02311_p25",
+    "month": "2022-04",
+    "source_id": "arxiv_2204.02311",
+    "page": 25,
+    "title": "PaLM: Scaling Language Modeling with Pathways",
+    "version": "v5",
+    "link": "https://arxiv.org/pdf/2204.02311v5#page=25",
+    "captions_on_page": [
+      "Table 12: Results obtained by the PaLM 540B and PaLM-Coder 540B models across code synthesis and.",
+      "Figure 12: Scaling results for HumanEval, MBPP, GSM8K-Python, TransCoder, and DeepFix datasets on."
+    ]
+  },
+  {
+    "slug": "2022-06_arxiv_2206.14858_p7",
+    "month": "2022-06",
+    "source_id": "arxiv_2206.14858",
+    "page": 7,
+    "title": "Solving Quantitative Reasoning Problems with Language Models",
+    "version": "v2",
+    "link": "https://arxiv.org/pdf/2206.14858v2#page=7",
+    "captions_on_page": [
+      "Figure 4: Performance on MATH and MMLU-STEM by subtopic."
+    ]
+  },
+  {
+    "slug": "2022-06_arxiv_2206.14858_p8",
+    "month": "2022-06",
+    "source_id": "arxiv_2206.14858",
+    "page": 8,
+    "title": "Solving Quantitative Reasoning Problems with Language Models",
+    "version": "v2",
+    "link": "https://arxiv.org/pdf/2206.14858v2#page=8",
+    "captions_on_page": [
+      "Table 3: Model performance on several quantitative reasoning datasets."
+    ]
+  },
+  {
+    "slug": "2022-10_arxiv_2210.02414_p8",
+    "month": "2022-10",
+    "source_id": "arxiv_2210.02414",
+    "page": 8,
+    "title": "GLM-130B: An Open Bilingual Pre-trained Model",
+    "version": "v2",
+    "link": "https://arxiv.org/pdf/2210.02414v2#page=8",
+    "captions_on_page": [
+      "Figure 6: GLM-130B on MMLU.",
+      "Figure 7: BIG-bench-lite evalua-.",
+      "Table 4: Details on BIG-."
+    ]
+  },
+  {
+    "slug": "2022-10_arxiv_2210.11416_p2",
+    "month": "2022-10",
+    "source_id": "arxiv_2210.11416",
+    "page": 2,
+    "title": "Scaling Instruction-Finetuned Language Models",
+    "version": "v5",
+    "link": "https://arxiv.org/pdf/2210.11416v5#page=2",
+    "captions_on_page": [
+      "Table 1: Average 5-shot MMLU scores (%) for 57 tasks with model and human accuracy comparisons."
+    ]
+  },
+  {
+    "slug": "2022-10_arxiv_2210.11416_p8",
+    "month": "2022-10",
+    "source_id": "arxiv_2210.11416",
+    "page": 8,
+    "title": "Scaling Instruction-Finetuned Language Models",
+    "version": "v5",
+    "link": "https://arxiv.org/pdf/2210.11416v5#page=8",
+    "captions_on_page": [
+      "Table 4: Flan-PaLM outperforms PaLM on all evaluation benchmarks.",
+      "Figure 5: Jointly finetuning on non-CoT and CoT data improves performance on both evaluations, compared."
+    ]
+  },
+  {
+    "slug": "2022-11_arxiv_2211.09085_p15",
+    "month": "2022-11",
+    "source_id": "arxiv_2211.09085",
+    "page": 15,
+    "title": "Galactica: A Large Language Model for Science",
+    "version": "v1",
+    "link": "https://arxiv.org/pdf/2211.09085v1#page=15",
+    "captions_on_page": [
+      "Table 8: Results on Mathematics MMLU. Galactica is evaluated without few-shot examples.",
+      "Table 9: Results on MATH. With both the chain-of-thought and <work> token prompts, Galactica exceeds."
+    ]
+  },
+  {
+    "slug": "2023-02_arxiv_2302.13971_p6",
+    "month": "2023-02",
+    "source_id": "arxiv_2302.13971",
+    "page": 6,
+    "title": "LLaMA: Open and Efficient Foundation Language Models",
+    "version": "v1",
+    "link": "https://arxiv.org/pdf/2302.13971v1#page=6",
+    "captions_on_page": [
+      "Table 7: Model performance on quantitative reason-.",
+      "Table 8: Model performance for code generation."
+    ]
+  },
+  {
+    "slug": "2023-02_arxiv_2302.13971_p7",
+    "month": "2023-02",
+    "source_id": "arxiv_2302.13971",
+    "page": 7,
+    "title": "LLaMA: Open and Efficient Foundation Language Models",
+    "version": "v1",
+    "link": "https://arxiv.org/pdf/2302.13971v1#page=7",
+    "captions_on_page": [
+      "Table 9: Massive Multitask Language Understanding (MMLU).",
+      "Table 10: Instruction finetuning - MMLU (5-shot)."
+    ]
+  },
+  {
+    "slug": "2023-03_arxiv_2303.08774_p7",
+    "month": "2023-03",
+    "source_id": "arxiv_2303.08774",
+    "page": 7,
+    "title": "GPT-4 Technical Report",
+    "version": "v6",
+    "link": "https://arxiv.org/pdf/2303.08774v6#page=7",
+    "captions_on_page": [
+      "Table 2: Performance of GPT-4 on academic benchmarks."
+    ]
+  },
+  {
+    "slug": "2023-05_arxiv_2305.10403_p15",
+    "month": "2023-05",
+    "source_id": "arxiv_2305.10403",
+    "page": 15,
+    "title": "PaLM 2 Technical Report",
+    "version": "v3",
+    "link": "https://arxiv.org/pdf/2305.10403v3#page=15",
+    "captions_on_page": [
+      "Table 7: Evaluation results on MATH, GSM8K, and MGSM with chain-of-thought prompting (Wei et al., 2022) /."
+    ]
+  },
+  {
+    "slug": "2023-07_anthropic_claude2_card_p10",
+    "month": "2023-07",
+    "source_id": "anthropic_claude2_card",
+    "page": 10,
+    "title": "Anthropic Claude 2 Model Card (July 2023)",
+    "version": null,
+    "link": "https://www-cdn.anthropic.com/bd2a28d2535bfb0494cc8e2a3bf135d2e7523226/Model-Card-Claude-2.pdf#page=10",
+    "captions_on_page": []
+  },
+  {
+    "slug": "2023-07_arxiv_2307.09288_p8",
+    "month": "2023-07",
+    "source_id": "arxiv_2307.09288",
+    "page": 8,
+    "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+    "version": "v2",
+    "link": "https://arxiv.org/pdf/2307.09288v2#page=8",
+    "captions_on_page": [
+      "Table 3: Overall performance on grouped academic benchmarks compared to open-source base models.",
+      "Table 4: Comparison to closed-source models on academic benchmarks."
+    ]
+  },
+  {
+    "slug": "2023-08_arxiv_2308.12950_p6",
+    "month": "2023-08",
+    "source_id": "arxiv_2308.12950",
+    "page": 6,
+    "title": "Code Llama: Open Foundation Models for Code",
+    "version": "v3",
+    "link": "https://arxiv.org/pdf/2308.12950v3#page=6",
+    "captions_on_page": [
+      "Table 2: Code Llama pass@ scores on HumanEval and MBPP. The pass@1 scores of our models are."
+    ]
+  },
+  {
+    "slug": "2023-10_arxiv_2310.06825_p3",
+    "month": "2023-10",
+    "source_id": "arxiv_2310.06825",
+    "page": 3,
+    "title": "Mistral 7B",
+    "version": "v1",
+    "link": "https://arxiv.org/pdf/2310.06825v1#page=3",
+    "captions_on_page": [
+      "Figure 2: Rolling buffer cache.",
+      "Figure 3: Pre-fill and chunking."
+    ]
+  },
+  {
+    "slug": "2023-10_arxiv_2310.06825_p4",
+    "month": "2023-10",
+    "source_id": "arxiv_2310.06825",
+    "page": 4,
+    "title": "Mistral 7B",
+    "version": "v1",
+    "link": "https://arxiv.org/pdf/2310.06825v1#page=4",
+    "captions_on_page": [
+      "Figure 4: Performance of Mistral 7B and different Llama models on a wide range of benchmarks.",
+      "Table 2: Comparison of Mistral 7B with Llama.",
+      "Table 3: Comparison of Chat models."
+    ]
+  },
+  {
+    "slug": "2023-12_arxiv_2312.11805_p8",
+    "month": "2023-12",
+    "source_id": "arxiv_2312.11805",
+    "page": 8,
+    "title": "Gemini: A Family of Highly Capable Multimodal Models",
+    "version": "v5",
+    "link": "https://arxiv.org/pdf/2312.11805v5#page=8",
+    "captions_on_page": [
+      "Table 2: Gemini performance on text benchmarks with external comparisons and PaLM 2-L."
+    ]
+  },
+  {
+    "slug": "2024-01_arxiv_2401.04088_p4",
+    "month": "2024-01",
+    "source_id": "arxiv_2401.04088",
+    "page": 4,
+    "title": "Mixtral of Experts",
+    "version": "v1",
+    "link": "https://arxiv.org/pdf/2401.04088v1#page=4",
+    "captions_on_page": [
+      "Table 2: Comparison of Mixtral with Llama.",
+      "Figure 3: Results on MMLU, commonsense reasoning, world knowledge and reading comprehension,."
+    ]
+  },
+  {
+    "slug": "2024-01_arxiv_2401.04088_p5",
+    "month": "2024-01",
+    "source_id": "arxiv_2401.04088",
+    "page": 5,
+    "title": "Mixtral of Experts",
+    "version": "v1",
+    "link": "https://arxiv.org/pdf/2401.04088v1#page=5",
+    "captions_on_page": [
+      "Table 3: Comparison of Mixtral with Llama 2 70B and GPT-3.5.",
+      "Table 4: Comparison of Mixtral with Llama on Multilingual Benchmarks.",
+      "Figure 4: Long range performance of Mixtral."
+    ]
+  },
+  {
+    "slug": "2024-03_anthropic_claude3_card_p6",
+    "month": "2024-03",
+    "source_id": "anthropic_claude3_card",
+    "page": 6,
+    "title": "Anthropic Claude 3 Model Card (March 2024)",
+    "version": null,
+    "link": "https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf#page=6",
+    "captions_on_page": [
+      "Table 1: We show evaluation results for reasoning, math, coding, reading comprehension, and question."
+    ]
+  },
+  {
+    "slug": "2024-03_arxiv_2403.05530_p30",
+    "month": "2024-03",
+    "source_id": "arxiv_2403.05530",
+    "page": 30,
+    "title": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+    "version": "v5",
+    "link": "https://arxiv.org/pdf/2403.05530v5#page=30",
+    "captions_on_page": [
+      "Table 11: Evaluation results of Gemini 1.5 Pro, 1.5 Flash and Gemini 1.0 models on standard coding,."
+    ]
+  },
+  {
+    "slug": "2024-05_arxiv_2405.04434_p19",
+    "month": "2024-05",
+    "source_id": "arxiv_2405.04434",
+    "page": 19,
+    "title": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
+    "version": "v5",
+    "link": "https://arxiv.org/pdf/2405.04434v5#page=19",
+    "captions_on_page": [
+      "Table 3: Comparison among DeepSeek-V2 Chat (SFT), DeepSeek-V2 Chat (RL), and other.",
+      "Table 4: English open-ended conversation evaluations."
+    ]
+  },
+  {
+    "slug": "2024-06_anthropic_claude35_addendum_p2",
+    "month": "2024-06",
+    "source_id": "anthropic_claude35_addendum",
+    "page": 2,
+    "title": "Anthropic Claude 3.5 Sonnet Model Card Addendum (June 2024)",
+    "version": null,
+    "link": "https://www-cdn.anthropic.com/fed9cc193a14b84131812372d8d5857f8f304c52/Model_Card_Claude_3_Addendum.pdf#page=2",
+    "captions_on_page": [
+      "Table 1: This table shows evaluation results for reasoning, math, coding, reading comprehension, and ques-.",
+      "Table 2: This table shows evaluation results for multimodal tasks."
+    ]
+  },
+  {
+    "slug": "2024-07_arxiv_2407.10671_p9",
+    "month": "2024-07",
+    "source_id": "arxiv_2407.10671",
+    "page": 9,
+    "title": "Qwen2 Technical Report",
+    "version": "v4",
+    "link": "https://arxiv.org/pdf/2407.10671v4#page=9",
+    "captions_on_page": [
+      "Table 2: Performance of the 70B+ models."
+    ]
+  },
+  {
+    "slug": "2024-07_arxiv_2407.21783_p3",
+    "month": "2024-07",
+    "source_id": "arxiv_2407.21783",
+    "page": 3,
+    "title": "The Llama 3 Herd of Models",
+    "version": "v3",
+    "link": "https://arxiv.org/pdf/2407.21783v3#page=3",
+    "captions_on_page": [
+      "Table 2: Performance of finetuned Llama 3 models on key benchmark evaluations."
+    ]
+  },
+  {
+    "slug": "2024-10_anthropic_claude35_oct_addendum_p6",
+    "month": "2024-10",
+    "source_id": "anthropic_claude35_oct_addendum",
+    "page": 6,
+    "title": "Anthropic Claude 3.5 Sonnet (new) & Haiku Model Card Addendum (Oct 2024)",
+    "version": null,
+    "link": "https://assets.anthropic.com/m/1cd9d098ac3e6467/original/Claude-3-Model-Card-October-Addendum.pdf#page=6",
+    "captions_on_page": [
+      "Table 7: This table shows evaluation results for the upgraded Claude 3.5 Sonnet and peer models on reason-."
+    ]
+  },
+  {
+    "slug": "2024-12_arxiv_2412.19437_p1",
+    "month": "2024-12",
+    "source_id": "arxiv_2412.19437",
+    "page": 1,
+    "title": "DeepSeek-V3 Technical Report",
+    "version": "v2",
+    "link": "https://arxiv.org/pdf/2412.19437v2#page=1",
+    "captions_on_page": [
+      "Figure 1: Benchmark performance of DeepSeek-V3 and its counterparts."
+    ]
+  },
+  {
+    "slug": "2024-12_arxiv_2412.19437_p31",
+    "month": "2024-12",
+    "source_id": "arxiv_2412.19437",
+    "page": 31,
+    "title": "DeepSeek-V3 Technical Report",
+    "version": "v2",
+    "link": "https://arxiv.org/pdf/2412.19437v2#page=31",
+    "captions_on_page": [
+      "Table 6: Comparison between DeepSeek-V3 and other representative chat models."
+    ]
+  },
+  {
+    "slug": "2025-01_arxiv_2501.12948v1_p13",
+    "month": "2025-01",
+    "source_id": "arxiv_2501.12948v1",
+    "page": 13,
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "version": "v1",
+    "link": "https://arxiv.org/pdf/2501.12948v1#page=13",
+    "captions_on_page": [
+      "Table 4: Comparison between DeepSeek-R1 and other representative models."
+    ]
+  },
+  {
+    "slug": "2025-01_openai_o3mini_system_card_p28",
+    "month": "2025-01",
+    "source_id": "openai_o3mini_system_card",
+    "page": 28,
+    "title": "OpenAI o3-mini System Card (Feb 10, 2025)",
+    "version": "20250212235848",
+    "link": "https://web.archive.org/web/20250212235848id_/https://cdn.openai.com/o3-mini-system-card-feb10.pdf#page=28",
+    "captions_on_page": []
+  },
+  {
+    "slug": "2025-05_arxiv_2505.09388_p14",
+    "month": "2025-05",
+    "source_id": "arxiv_2505.09388",
+    "page": 14,
+    "title": "Qwen3 Technical Report",
+    "version": "v1",
+    "link": "https://arxiv.org/pdf/2505.09388v1#page=14",
+    "captions_on_page": [
+      "Table 11: Comparison among Qwen3-235B-A22B (Thinking) and other reasoning baselines.",
+      "Table 12: Comparison among Qwen3-235B-A22B (Non-thinking) and other non-reasoning baselines."
+    ]
+  },
+  {
+    "slug": "2025-06_arxiv_2506.10910_p10",
+    "month": "2025-06",
+    "source_id": "arxiv_2506.10910",
+    "page": 10,
+    "title": "Magistral",
+    "version": "v1",
+    "link": "https://arxiv.org/pdf/2506.10910v1#page=10",
+    "captions_on_page": [
+      "Table 3: Performance of Magistral Small compared with different training setups across various bench-.",
+      "Table 4: Magistral Medium's pass@1 performance on multilingual versions of the AIME 2024 benchmark.",
+      "Table 5: Cross-domain generalization during math-only and code-only RL for a 24B model."
+    ]
+  },
+  {
+    "slug": "2025-07_arxiv_2507.20534_p1",
+    "month": "2025-07",
+    "source_id": "arxiv_2507.20534",
+    "page": 1,
+    "title": "Kimi K2: Open Agentic Intelligence",
+    "version": "v2",
+    "link": "https://arxiv.org/pdf/2507.20534v2#page=1",
+    "captions_on_page": [
+      "Figure 1: Kimi K2 main results.2."
+    ]
+  },
+  {
+    "slug": "2025-08_arxiv_2508.06471_p16",
+    "month": "2025-08",
+    "source_id": "arxiv_2508.06471",
+    "page": 16,
+    "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+    "version": "v1",
+    "link": "https://arxiv.org/pdf/2508.06471v1#page=16",
+    "captions_on_page": [
+      "Figure 11: One example of user prompt we used for TAU-bench.",
+      "Table 4: Results on Reasoning Benchmarks.",
+      "Table 5: Results on SWE-bench Verified and Terminal-Bench."
+    ]
+  },
+  {
+    "slug": "2025-08_arxiv_2508.10925_p6",
+    "month": "2025-08",
+    "source_id": "arxiv_2508.10925",
+    "page": 6,
+    "title": "gpt-oss-120b &amp; gpt-oss-20b Model Card",
+    "version": "v1",
+    "link": "https://arxiv.org/pdf/2508.10925v1#page=6",
+    "captions_on_page": [
+      "Figure 1: Main capabilities evaluations."
+    ]
+  },
+  {
+    "slug": "2025-12_arxiv_2512.02556_p1",
+    "month": "2025-12",
+    "source_id": "arxiv_2512.02556",
+    "page": 1,
+    "title": "DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models",
+    "version": "v1",
+    "link": "https://arxiv.org/pdf/2512.02556v1#page=1",
+    "captions_on_page": [
+      "Figure 1: Benchmark of DeepSeek-V3.2 and its counterparts."
+    ]
+  },
+  {
+    "slug": "2026-02_arxiv_2602.02276_p12",
+    "month": "2026-02",
+    "source_id": "arxiv_2602.02276",
+    "page": 12,
+    "title": "Kimi K2.5: Visual Agentic Intelligence",
+    "version": "v2",
+    "link": "https://arxiv.org/pdf/2602.02276v2#page=12",
+    "captions_on_page": [
+      "Table 4: Performance comparison of Kimi K2.5 against open-source and proprietary models."
+    ]
+  },
+  {
+    "slug": "2026-02_arxiv_2602.15763_p23",
+    "month": "2026-02",
+    "source_id": "arxiv_2602.15763",
+    "page": 23,
+    "title": "GLM-5: from Vibe Coding to Agentic Engineering",
+    "version": "v2",
+    "link": "https://arxiv.org/pdf/2602.15763v2#page=23",
+    "captions_on_page": [
+      "Table 7: Comparison between GLM-5 and open-source/proprietary models."
+    ]
+  }
+]
